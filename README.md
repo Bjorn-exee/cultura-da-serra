@@ -26,19 +26,18 @@ O projeto foi desenvolvido, em poucos dias, pela turma do curso profissionalizan
 
 ### Explorar com filtros
 
-![Explorar com filtros](docs/01-explorar-filtros.png)
-
-### Detalhes de um lugar
-
-![Detalhes de um lugar](docs/02-detalhe-do-lugar.png)
+![Explorar com filtros](<img width="974" height="569" alt="01-explorar-filtros" src="https://github.com/user-attachments/assets/3e67661c-1a35-432a-a7a7-f091997ce47e" />
+)
 
 ### Passaporte da Serra
 
-![Passaporte da Serra](docs/03-passaporte.png)
+![Passaporte da Serra](<img width="974" height="569" alt="03-passaporte" src="https://github.com/user-attachments/assets/8b491146-1885-4d15-89a0-015aca6445bd" />
+)
 
 ### Roteiros culturais
 
-![Roteiros culturais](docs/04-roteiros.png)
+![Roteiros culturais](<img width="974" height="569" alt="04-roteiros" src="https://github.com/user-attachments/assets/b4300d53-63b9-405b-ade4-8d7999e5d96e" />
+)
 
 ## Tecnologias
 
