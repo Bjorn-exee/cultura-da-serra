@@ -2,9 +2,7 @@
 
 **Um mapa cultural vivo da Serra Gaúcha.** Descubra, visite e registre a cultura de Gramado, Canela e Nova Petrópolis.
 
-**[Ver o site no ar](https://culturadaserra.netlify.app)** · [Assistir ao vídeo de demonstração](docs/cultura-da-serra.mp4)
-
-![Demonstração do Cultura da Serra](docs/demo.gif)
+**[Ver o site no ar](https://culturadaserra.netlify.app)** · [Assistir ao vídeo de demonstração](https://github.com/user-attachments/assets/1da34d7b-9f24-4406-89b5-df918f299310)
 
 ## Sobre o projeto
 
@@ -26,18 +24,16 @@ O projeto foi desenvolvido, em poucos dias, pela turma do curso profissionalizan
 
 ### Explorar com filtros
 
-![Explorar com filtros](<img width="974" height="569" alt="01-explorar-filtros" src="https://github.com/user-attachments/assets/3e67661c-1a35-432a-a7a7-f091997ce47e" />
-)
+![Explorar com filtros](<img width="974" height="569" alt="01-explorar-filtros" src="https://github.com/user-attachments/assets/5b0bde0c-2940-4d35-b76b-27af6eed7f38" />)
 
 ### Passaporte da Serra
 
-![Passaporte da Serra](<img width="974" height="569" alt="03-passaporte" src="https://github.com/user-attachments/assets/8b491146-1885-4d15-89a0-015aca6445bd" />
-)
+![Passaporte da Serra](<img width="974" height="569" alt="03-passaporte" src="https://github.com/user-attachments/assets/78694e30-5f4e-4ffb-8a81-b4b130571fa9" />)
 
 ### Roteiros culturais
 
-![Roteiros culturais](<img width="974" height="569" alt="04-roteiros" src="https://github.com/user-attachments/assets/b4300d53-63b9-405b-ade4-8d7999e5d96e" />
-)
+![Roteiros culturais](<img width="974" height="569" alt="04-roteiros" src="https://github.com/user-attachments/assets/a298abf4-e382-4854-ad17-55326e2602db" />)
+
 
 ## Tecnologias
 
