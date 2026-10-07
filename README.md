@@ -60,7 +60,7 @@ Depois, abra http://localhost:8000 no navegador. Usar um servidor local, em vez 
 ## Equipe e créditos
 
 - **Desenvolvimento:** turma do curso profissionalizante de Jovem Aprendiz do SENAC Gramado.
-- **Autor deste repositório:** Carlos [SOBRENOME] (Bjorn nas redes) · [LinkedIn]([carlos-eduardo-8507642b7](https://www.linkedin.com/in/carlos-eduardo-8507642b7 ))
+- **Autor deste repositório:** Carlos Eduardo (Bjorn nas redes) · [LinkedIn]([carlos-eduardo-8507642b7](https://www.linkedin.com/in/carlos-eduardo-8507642b7 ))
 - **Colegas de turma:** Emerson González, Gabriel Carvalho Bianchi e turma 3024/3028
 - **Instrutor(a):** Gabriela Avila Zanatta
 - **Mapas:** [Leaflet](https://leafletjs.com) e camadas da Esri (fonte: Esri, HERE, Garmin, FAO, NOAA e USGS)
